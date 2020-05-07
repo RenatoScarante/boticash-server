@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Faixa 1",
+    "description": "Percentual de cashback para valores de compra de 0 até 49,99", 
+    "start_value": 0,
+    "end_value": 49.99,
+    "percent": 3
+  },
+  {
+    "id": 2,
+    "name": "Faixa 2",
+    "description": "Percentual de cashback para valores de compra de 50,00 até 99,99", 
+    "start_value": 50,
+    "end_value": 99.99,
+    "percent": 5
+  },
+  {
+    "id": 3,
+    "name": "Faixa 3",
+    "description": "Percentual de cashback para valores de compra de 100,00 até 499,99", 
+    "start_value": 100,
+    "end_value": 499.99,
+    "percent": 10
+  },
+  {
+    "id": 4,
+    "name": "Faixa 4",
+    "description": "Percentual de cashback para valores de compra de 500,00 até 999,99", 
+    "start_value": 500,
+    "end_value": 999.99,
+    "percent": 17
+  },
+  {
+    "id": 5,
+    "name": "Faixa 5",
+    "description": "Percentual de cashback para valores de compra de 1.000,00 até 4.999,99", 
+    "start_value": 1000,
+    "end_value": 4999.99,
+    "percent": 25
+  },
+  {
+    "id": 5,
+    "name": "Faixa 6",
+    "description": "Percentual de cashback para valores de compra de 5.000,00 até 14.999,99", 
+    "start_value": 5000,
+    "end_value": 14999.99,
+    "percent": 35
+  },
+  {
+    "id": 6,
+    "name": "Faixa 7",
+    "description": "Percentual de cashback para valores de compra acima de 15.000,00", 
+    "start_value": 15000,
+    "end_value": 999999.99,
+    "percent": 50
+  }
+]
